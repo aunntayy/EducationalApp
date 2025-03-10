@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>rock.png</file>
+        <file>gamemenupage.png</file>
+        <file>background.png</file>
+        <file>backgroundLv1.jpg</file>
+        <file>tree.png</file>
+        <file>hills.png</file>
+        <file>tree2.png</file>
+        <file>backgroundlv2.png</file>
+        <file>simple.png</file>
+        <file>simple.jpg</file>
+        <file>human.png</file>
+        <file>levelcomplete.png</file>
+    </qresource>
+</RCC>
